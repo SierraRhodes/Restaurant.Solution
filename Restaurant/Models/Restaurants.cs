@@ -3,7 +3,7 @@ using MySqlConnector;
 
 namespace Restaurant.Models
 {
-  public class Cuisine
+  public class Restaurants
   {
   
   }
